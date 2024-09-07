@@ -33,7 +33,7 @@ def extract_selected_numbers(image_path):
         return None
 
 # Example usage
-image_path = r'C:\Users\Dell\Desktop\MY PROJECTS\NUMB.jpg'
+image_path = r'FilePath:- C:\Users\Dell\Desktop\image\NUMB.jpg'
 result = extract_selected_numbers(image_path)
 
 if result is not None:
